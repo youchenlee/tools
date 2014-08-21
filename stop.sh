@@ -6,3 +6,4 @@ sudo /etc/init.d/mongodb stop
 sudo service mongodb stop
 sudo service mysql stop
 sudo service jetty stop
+sudo service nginx stop
