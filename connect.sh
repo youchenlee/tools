@@ -1,4 +1,4 @@
-MONITOR=HDMI3
+MONITOR=HDMI1
 
 if [ "$1" = "off" ]; then
     xrandr --output LVDS1 --off
